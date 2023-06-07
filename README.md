@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# Tic Tac Toe Game
 
 This is a simple implementation of the Tic Tac Toe game in Python. It allows two players to take turns marking X and O on a 3x3 grid. The game ends when a player has three of their marks in a row, column, or diagonal, or when all the cells on the grid have been filled.
 
